@@ -10,7 +10,7 @@ Handsome主题夜间模式插件 fo Typecho
 只适合Handsome主题哦~
 
 ### 安装方法：
-下载解压后将DdgNight文件夹放到/usr/plugins插件文件夹激活即可
+下载解压后将文件夹改名为DdgNight将文件夹放到/usr/plugins插件文件夹激活即可
 
 ### 更新日志：
 1.0.2	2020/05/12	增加模式切换按钮手机端是否隐藏到搜索栏菜单内
